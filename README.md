@@ -1,8 +1,15 @@
-## Resumen
-Este proyecto tiene como objetivo mejorar la domótica en el hogar mediante el uso de inteligencia artificial para crear un sistema de hogar inteligente. La IA gestionará diversas tareas domésticas, optimizará el uso de energía y mejorará la seguridad, haciendo la vida diaria más conveniente y eficiente.
+
 # Proyecto de curso de creación de IA
 
+Final del Proyecto de Construyendo IA
+
+## Summary
+
+Este proyecto tiene como objetivo mejorar la domótica en el hogar mediante el uso de inteligencia artificial para crear un sistema de hogar inteligente. La IA gestionará diversas tareas domésticas, optimizará el uso de energía y mejorará la seguridad, haciendo la vida diaria más conveniente y eficiente.
+
+
 # Iluminación Inteligente con IA
+
 
 ## Introducción
 - La iluminación es un elemento clave para el confort y la eficiencia energética.
