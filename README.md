@@ -1,6 +1,7 @@
 ## RESUMEN
+# Proyecto de curso de creación de IA
 
-# Proyecto: Iluminación Inteligente con IA
+# Iluminación Inteligente con IA
 
 ## Introducción
 - La iluminación es un elemento clave para el confort y la eficiencia energética.
