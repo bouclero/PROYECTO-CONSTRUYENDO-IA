@@ -96,4 +96,30 @@ prediccion = modelo.predict([[hora, dia_semana]])
 
 print("¿Encender luz?:", "Sí" if prediccion[0] == 1 else "No")
 
-  
+### Ejemplo de Código: Detector de intrusos
+  def detect_intruder(sensor_data):
+    if sensor_data == "motion_detected":
+        print("Intruso detectado. Enviando alerta.")
+        send_alert()
+
+def send_alert():
+    print("Alerta enviada al propietario y a las autoridades.")
+
+# Simulación de datos del sensor
+sensor_data = "motion_detected"
+detect_intruder(sensor_data)
+
+### Ejemplo de Código: Aplicacion uso en electrodomesticos
+def optimize_appliances(usage_data):
+    if usage_data["time"] > 22 or usage_data["time"] < 6:
+        print("Reduciendo el consumo de energía en modo nocturno.")
+        reduce_energy_usage()
+
+def reduce_energy_usage():
+    print("Electrodomésticos en modo de bajo consumo.")
+
+# Simulación de datos de uso
+usage_data = {"time": 23}
+optimize_appliances(usage_data)
+
+
