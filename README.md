@@ -1,4 +1,4 @@
-## RESUMEN
+##Resumen
 # Proyecto de curso de creación de IA
 
 # Iluminación Inteligente con IA
